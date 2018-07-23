@@ -1,0 +1,44 @@
+
+state={
+	id=769
+	name="STATE_769"
+	manpower = 92000
+	
+	state_category = town
+
+	history={
+		owner = BUS
+		victory_points = {
+			2089 1 
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 2 
+			air_base = 4
+			2089 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = BUS
+		add_core_of = IRQ
+	}
+
+	provinces={
+		2089 
+	}
+}
+
+# # Pulled another population number out of the air: 150000
+
+#  2044165
+# - 150000
+# --------
+#  1894165
+
+# Around 93,000 population near end of WW2: https://en.wikipedia.org/wiki/Basra#World_Wars
+
+#  1894165
+# -  92000
+# --------
+#  1802165

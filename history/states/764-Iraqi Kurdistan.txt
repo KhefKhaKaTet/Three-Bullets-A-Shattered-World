@@ -1,0 +1,33 @@
+state={
+	id=764
+	name="STATE_764"
+	manpower = 600000
+	
+	state_category = town
+	
+	resources={
+		oil=6
+	}
+
+
+	history={
+		owner = KUR
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = KUR
+		add_core_of = IRQ
+	}
+	
+	provinces={
+		3916 5014 6826 8123 10793 10811 
+	}
+}
+
+# Original population: 1182741
+# Pulled a population number out of the air: 600000
+
+#  1182741
+# - 600000
+# --------
+#   582741

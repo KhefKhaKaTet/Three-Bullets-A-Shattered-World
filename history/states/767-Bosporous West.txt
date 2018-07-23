@@ -1,0 +1,51 @@
+state= {
+	id=767
+	name="STATE_767"
+	manpower = 625000
+	resources={
+		chromium=45 # was: 84
+		steel = 10 # was: 20
+	}
+	
+	state_category = city
+
+	history= {
+		owner = GRE
+		add_core_of = GRE
+		add_core_of = TUR
+		victory_points = {
+			9833 20
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			dockyard = 1
+			arms_factory = 2
+			air_base = 4
+			9833 = {
+				naval_base = 8
+			}
+		}
+	}
+	provinces=
+	{
+		9833 
+	}
+}
+
+# Original population: 1404509
+# 1935 population estimate: 740,800
+# Let's just round that for math sake: 740000
+# Italo-Turkish War, Istanbul likely raided: 625000
+
+#  1404509
+# - 625000
+# --------
+#   779509
+
+# War likely hurt the population of Thrace as well: 200000
+
+#  779509
+# -200000
+# -------
+#  579509

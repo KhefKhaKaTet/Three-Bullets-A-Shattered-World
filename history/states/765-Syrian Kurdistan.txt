@@ -1,0 +1,30 @@
+state={
+	id=765
+	name="STATE_765"
+	manpower = 65000
+	
+	state_category = wasteland
+
+	history={
+		owner = KUR
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = KUR
+		add_core_of = SYR
+
+	}
+
+
+	provinces={
+		1549 1578 
+	}
+}
+
+# Original population: 324110
+# Pulled an estimate: 65000
+
+#  324110
+# - 65000
+# -------
+#  259110

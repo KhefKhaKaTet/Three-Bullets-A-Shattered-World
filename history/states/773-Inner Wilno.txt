@@ -1,0 +1,30 @@
+state={
+	id=773
+	name="STATE_773"
+	manpower = 850000
+	
+	state_category = rural
+	
+	history={
+		owner = POL
+		victory_points = {
+			3320 1
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			air_base = 5
+		}
+		add_core_of = POL
+		add_core_of = BLR
+		add_core_of = LIT
+	}
+
+	provinces={
+		3320 9274 9295 11342 
+	}
+}
+
+# Add 100,000
+# Add 750,000
+# 850000

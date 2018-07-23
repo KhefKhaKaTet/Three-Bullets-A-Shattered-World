@@ -1,0 +1,30 @@
+
+state={
+	id=771
+	name="STATE_771"
+	manpower = 180000
+	
+	state_category = city
+	
+	history={
+		owner = POL
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			air_base = 1
+		}
+		add_core_of = HET
+		add_core_of = LAT
+	}
+
+	provinces={
+		3255 11358 
+	}
+}
+
+# Original population: 1520500
+# No victory points in Lower Semigallia, so pick a smaller number: 180000
+#  1520500
+# - 140000
+# --------
+#  1340500

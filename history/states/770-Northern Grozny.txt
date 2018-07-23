@@ -1,0 +1,33 @@
+
+state={
+	id=770
+	name="STATE_770"
+	manpower = 310000
+	
+	state_category = rural
+	
+	resources={
+		oil=4
+	}
+
+	history={
+		owner = HRS
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = SOV
+		add_core_of = HRS
+		add_core_of = RUS
+	}
+
+	provinces={
+		683 700 712 728 6730 6748 11632
+	}
+}
+
+# Original population: 1658292
+# Just take a fifth of it please: ~310000
+#  1658292
+# - 310000
+# --------
+#  1348292

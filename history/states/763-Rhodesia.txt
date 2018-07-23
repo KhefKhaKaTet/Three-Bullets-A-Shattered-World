@@ -1,0 +1,38 @@
+state={
+	id=763
+	
+	state_category = rural
+	
+	name="STATE_763"
+	resources={
+		chromium=11
+		tungsten=4
+	}
+
+	history={
+		owner = SAF
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			10929 1 
+		}
+		add_core_of = ZIM
+	}
+
+	provinces={
+		1874 2151 2216 4851 7842 10929
+	}
+	manpower=1400000
+	buildings_max_level_factor=1.000
+}
+
+# Original manpower (of state 545): 4155400
+# 1930 estimate of 'Southern Rhodesia': 1,300,000 + 50,000? (1,350,000)
+# 1945 estimate of 'Southern Rhodesia': 1,400,000 + 140,000 (1,540,000)
+
+#  4155400
+# -1400000
+# --------
+#  2755400
