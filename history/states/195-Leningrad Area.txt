@@ -1,0 +1,37 @@
+
+state={
+	id=195
+	name="STATE_195"
+	manpower = 750158
+	
+	state_category = metropolis
+
+	history={
+		owner = HRS
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+			industrial_complex = 1
+			dockyard = 1
+			air_base = 4
+		}
+		add_core_of = SOV
+		add_core_of = HRS
+		add_core_of = RUS
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 7
+			}
+		}
+	}
+
+	provinces={
+		79 6174 11068 
+	}
+}
+
+# Original population: 3750158
+# OTL 1935 population: around 3250000 https://en.wikipedia.org/wiki/Demographics_of_Saint_Petersburg#/media/File:Saint_Petersburg_population_history.svg
+# This timeline population estimate: 3000000
+
+# 3750158 - 3000000 = 750158
