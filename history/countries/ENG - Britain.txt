@@ -1,0 +1,59 @@
+﻿capital = 126
+
+oob = "ENG_1936"
+
+set_research_slots = 4
+
+set_stability = 0.6
+set_war_support = 0.1
+
+set_politics = {
+
+	parties = {
+		communism = {
+			popularity = 2
+		}
+		
+		socialism = {
+			popularity = 18
+		}
+	
+		progressivism = {
+			popularity = 1
+		}
+	
+		liberalism = {
+			popularity = 8
+		}
+	
+		conservatism = {
+			popularity = 21
+		}
+		
+		reactionism = {
+			popularity = 3
+		}
+		
+		nationalism = {
+			popularity = 3
+		}
+	
+		fascism = {
+			popularity = 44
+		}
+	}
+	
+	ruling_party = fascism
+	last_election = "1935.11.14"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Oswald Mosley"
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
+		
+	}
+}

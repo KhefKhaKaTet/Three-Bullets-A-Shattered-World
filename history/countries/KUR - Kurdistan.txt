@@ -1,0 +1,47 @@
+﻿capital = 352
+
+set_research_slots = 2
+
+set_politics = {
+
+	parties = {
+		communism = {
+			popularity = 8
+		}
+		
+		socialism = {
+			popularity = 8
+		}
+		
+		liberalism = {
+			popularity = 8
+		}
+		
+		conservatism = {
+			popularity = 60
+		}
+		
+		reactionism = {
+			popularity = 8
+		}
+		
+		fascism = {
+			popularity = 8
+		}
+	}
+	
+	ruling_party = conservatism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	
+	name = "placeholder"
+	expire = "1965.1.1"
+	ideology = conservatism_ideology
+	traits = {
+		
+	}
+}
