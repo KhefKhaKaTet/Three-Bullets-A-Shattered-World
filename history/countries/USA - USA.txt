@@ -1,0 +1,111 @@
+﻿capital = 361
+
+oob = "USA_1936"
+
+set_research_slots = 4
+set_stability = 0.75
+set_war_support = 0
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	gw_artillery = 1
+	gwtank = 1
+	early_fighter = 1
+	cv_early_fighter = 1
+	cv_naval_bomber1 = 1
+	cv_CAS1 = 1
+	naval_bomber1 = 1
+	CAS1 = 1
+	early_bomber = 1
+	early_submarine = 1
+	basic_submarine = 1
+	early_destroyer = 1
+	early_light_cruiser = 1
+	basic_light_cruiser = 1
+	early_heavy_cruiser = 1
+	early_battleship = 1
+	early_battlecruiser = 1
+	early_carrier = 1
+	basic_carrier = 1
+	transport = 1
+	superior_firepower = 1
+	base_strike = 1
+
+}
+
+set_convoys = 400
+
+
+set_politics = {
+
+	parties = {
+		communism = {
+			popularity = 5
+		}
+		socialism = {
+			popularity = 5
+		}
+		liberalism = {
+			popularity = 54
+		}
+		conservatism = {
+			popularity = 5
+		}
+		reactionism = {
+			popularity = 5
+		}
+		fascism = {
+			popularity = 5
+		}
+	}
+	
+	ruling_party = liberalism
+	last_election = "1932.11.8"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+add_ideas = {
+	undisturbed_isolation
+	great_depression
+	disarmed_nation
+	free_trade
+	home_of_the_free
+}
+
+create_country_leader = {
+	name = "Franklin Delano Roosevelt"
+	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
+	picture = "Portrait_USA_Franklin_Roosevelt.dds"
+	expire = "1947.1.1"
+	ideology = liberalism_ideology
+	traits = {
+		dislikes_germany
+	}
+}
+
+create_country_leader = {
+	name = "William Dudley Pelley"
+	desc = "POLITICS_WILLIAM_DUDLEY_PELLEY_DESC"
+	picture = "Portrait_USA_William_Dudley_Pelley.dds"
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Earl Browder"
+	desc = "POLITICS_EARL_BROWDER_DESC"
+	picture = "Portrait_USA_Generic_1.dds"
+	expire = "1965.1.1"
+	ideology = marxism
+	traits = {
+		
+	}
+}
