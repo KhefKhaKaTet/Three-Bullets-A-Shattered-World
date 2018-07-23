@@ -1,0 +1,36 @@
+
+state={
+	id=232
+	name="STATE_232"
+	manpower = 1348292
+	
+	state_category = rural
+	
+	resources={
+		oil=15
+	}
+
+	history={
+		owner = ARM
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			3672 5 
+		}
+		add_core_of = SOV
+		add_core_of = HRS
+		add_core_of = RUS
+	}
+
+	provinces={
+		1450 3668 3672 3682 3711 4463 6689 6701 7554 7624 9645 
+	}
+}
+
+# Original population: 1658292
+# Just take a fifth of it please: ~310000
+#  1658292
+# - 310000
+# --------
+#  1348292
