@@ -1,0 +1,43 @@
+state={
+	id=676
+	name="STATE_676"
+	manpower = 732741
+	
+	state_category = town
+	
+	resources={
+		oil=4
+	}
+
+
+	history={
+		owner = ASY
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			10106 1 
+		}
+		add_core_of = ASY
+		add_core_of = IRQ
+	}
+	
+	provinces={
+		1600 1938 3795 10106 10804 12372 
+	}
+}
+
+# Original population: 1182741
+# Pulled a population number out of the air: 600000
+
+#  1182741
+# - 600000
+# --------
+#   582741
+
+# Pulled another population number out of the air: 150000
+
+#  582741
+# +150000
+# -------
+#  732741
