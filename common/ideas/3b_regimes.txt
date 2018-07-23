@@ -1,0 +1,47 @@
+ideas = {
+
+	presidential_republic = {
+		# Executive is directly elected by eligible voters
+	
+	}
+	
+	parliamentary_republic = {
+		# Executive is indirectly elected by eligible voters
+	
+	}
+	
+	dictatorial_republic = {
+		# Executive is in power due to a circumstance outside of elections
+	
+	}
+	
+	constitutional_monarchy = {
+		# Executive is independent of the reigning monarch through constitutional means
+	
+	}
+	
+	elections_monarchy = {
+		# Executive is dependent on the reigning monarch, but is still elected in some form
+	
+	}
+	
+	absolute_monarchy = {
+		# Executive is fully dependent on the reigning monarch and may be dismissed
+	
+	}
+	
+	liberal_dictatorship = {
+		# Executive has full power over the state, but has yet maintained a degree of freedom in the country
+	
+	}
+	
+	independent_dictatorship = {
+		# Executive has full power over the state, but does so for its own benefit rather than national interest
+	
+	}
+	
+	militant_dictatorship = {
+		# Executive has full power over the state, and exercises a large amount of control over the society of the country
+	
+	}
+}
