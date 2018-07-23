@@ -1,0 +1,485 @@
+﻿l_english:
+
+ # Africa
+
+ ALG_socialism:0 "Republic of Algeria"
+ ALG_socialism_DEF:0 "the Republic of Algeria"
+ ALG_DEF:0 "Algerian"
+ 
+ ANG_reactionism:0 "State of Angola"
+ ANG_reactionism_DEF:0 "the State of Angola"
+ ANG_DEF:0 "Angolan"
+ 
+ CMR_conservatism:0 "State of Cameroon"
+ CMR_conservatism_DEF:0 "the State of Cameroon"
+ CMR_DEF:0 "Cameroonian"
+ 
+ COG_conservatism:0 "State of the Congo"
+ COG_conservatism_DEF:0 "the State of the Congo"
+ COG_DEF:0 "Congoan"
+ 
+ EGY_conservatism:0 "Kingdom of Egypt"
+ EGY_conservatism_DEF:0 "the Kingdom of Egypt"
+ EGY_ADJ:0 "Egyptian"
+ 
+ ETH_reactionism:0 "Kingdom of Ethiopia"
+ ETH_reactionism_DEF:0 "the Kingdom of Ethiopia"
+ ETH_ADJ:0 "Ethiopian"
+ 
+ LBA_conservatism:0 "State of Libya"
+ LBA_conservatism_DEF:0 "the State of Libya"
+ LBA_ADJ:0 "Libyan"
+ 
+ LIB_conservatism:0 "Republic of Liberia"
+ LIB_conservatism_DEF:0 "the Republic of Liberia"
+ LIB_ADJ:0 "Liberian"
+ 
+ MAD_reactionism:0 "Kingdom of Madagascar"
+ MAD_reactionism_DEF:0 "the Kingdom of Madagascar"
+ MAD_ADJ:0 "Malagasy"
+ 
+ MOR_socialism:0 "Republic of Morocco"
+ MOR_socialism_DEF:0 "the Republic of Morocco"
+ MOR_ADJ:0 "Moroccan"
+ 
+ NAM_conservatism:0 "State of Namibia"
+ NAM_conservatism_DEF:0 "the State of Namibia"
+ NAM_ADJ:0 "Namibian"
+ 
+ SAF_conservatism:0 "Republic of South Africa"
+ SAF_conservatism_DEF:0 "the Republic of South Africa"
+ SAF_ADJ:0 "South African"
+ 
+ SOM_conservatism:0 "State of Somalia"
+ SOM_conservatism_DEF:0 "the State of Somalia"
+ SOM_ADJ:0 "Somalian"
+ 
+ TUN_socialism:0 "Republic of Tunisia"
+ TUN_socialism_DEF:0 "the Republic of Tunisia"
+ TUN_ADJ:0 "Tunisian"
+ 
+ TZN_conservatism:0 "State of Tanzania"
+ TZN_conservatism_DEF:0 "the State of Tanzania"
+ TZN_ADJ:0 "Tanzanian"
+ 
+ # America, North
+ 
+ CAN_conservatism:0 "Commonwealth of Canada"
+ CAN_conservatism_DEF:0 "the Commonwealth of Canada"
+ CAN_ADJ:0 "Canadian"
+ 
+ COS_conservatism:0 "Republic of Costa Rica"
+ COS_conservatism_DEF:0 "the Republic of Costa Rica"
+ COS_ADJ:0 "Costa Rican"
+ 
+ CUB_liberalism:0 "Republic of Cuba"
+ CUB_liberalism_DEF:0 "the Republic of Cuba"
+ CUB_ADJ:0 "Cuban"
+ 
+ DOM_conservatism:0 "Dominican Republic"
+ DOM_conservatism_DEF:0 "the Dominican Republic"
+ DOM_ADJ:0 "Dominican"
+ 
+ ELS_reactionism:0 "State of El Salvador"
+ ELS_reactionism_DEF:0 "the State of El Salvador"
+ ELS_ADJ:0 "El Salvadorean"
+ 
+ HAI_conservatism:0 "Republic of Haiti"
+ HAI_conservatism_DEF:0 "the Republic of Haiti"
+ HAI_ADJ:0 "Haitian"
+ 
+ HON_conservatism:0 "Republic of Honduras"
+ HON_conservatism_DEF:0 "the Republic of Honduras"
+ HON_ADJ:0 "Honduran"
+ 
+ MEX_socialism:0 "People's Mexican Republic"
+ MEX_socialism_DEF:0 "the People's Mexican Republic"
+ MEX_ADJ:0 "Mexican"
+ 
+ NIC_liberalism:0 "Republic of Nicaragua"
+ NIC_liberalism_DEF:0 "the Republic of Nicaragua"
+ NIC_ADJ:0 "Nicaraguan"
+ 
+ PAN_liberalism:0 "Republic of Panama"
+ PAN_liberalism_DEF:0 "the Republic of Panama"
+ PAN_ADJ:0 "Panamanan"
+ 
+ USA_liberalism:0 "United States of America"
+ USA_liberalism_DEF:0 "the United States of America"
+ USA_ADJ:0 "American"
+ 
+ # America, South
+ 
+ ARG_reactionism:0 "State of Argentina"
+ ARG_reactionism_DEF:0 "the State of Argentina"
+ ARG_ADJ:0 "Argentinian"
+ 
+ BOL_conservatism:0 "Republic of Bolivia"
+ BOL_conservatism_DEF:0 "the Republic of Bolivia"
+ BOL_ADJ:0 "Bolivian"
+ 
+ BRA_fascism:0 "Junta of Brazil"
+ BRA_fascism_DEF:0 "the Junta of Brazil"
+ BRA_ADJ:0 "Brazilian"
+ 
+ CHL_conservatism:0 "Republic of Chile"
+ CHL_conservatism_DEF:0 "the Republic of Chile"
+ CHL_ADJ:0 "Chilean"
+ 
+ COL_conservatism:0 "Republic of Colombia"
+ COL_conservatism_DEF:0 "the Republic of Colombia"
+ COL_ADJ:0 "Colombian"
+ 
+ ECU_conservatism:0 "Republic of Ecuador"
+ ECU_conservatism_DEF:0 "the Republic of Ecuador"
+ ECU_ADJ:0 "Ecuadorean"
+ 
+ PAR_socialism:0 "Republic of Paraguay"
+ PAR_socialism_DEF:0 "the Republic of Paraguay"
+ PAR_ADJ:0 "Paraguayan"
+ 
+ PRU_reactionism:0 "Republic of Peru"
+ PRU_reactionism_DEF:0 "the Republic of Peru"
+ PRU_ADJ:0 "Peruvian"
+ 
+ URG_conservatism:0 "Republic of Uruguay"
+ URG_conservatism_DEF:0 "the Republic of Uruguay"
+ URG_ADJ:0 "Uruguayan"
+ 
+ VEN_reactionism:0 "State of Venezuela"
+ VEN_reactionism_DEF:0 "the State of Venezuela"
+ VEN_ADJ:0 "Venezuelan"
+ 
+ # Asia
+ 
+ AFG_reactionism:0 "Kindgom of Afghanistan"
+ AFG_reactionism_DEF:0 "the Kingdom of Afghanistan"
+ AFG_ADJ:0 "Afghani"
+ 
+ ASY_conservatism:0 "Kingdom of Assyria"
+ ASY_conservatism_DEF:0 "the Kingdom of Assyria"
+ ASY_ADJ:0 "Assyrian"
+ 
+ BEN_reactionism:0 "State of Bengal"
+ BEN_reactionism_DEF:0 "the State of Bengal"
+ BEN_ADJ:0 "Bengal"
+ 
+ BHU_conservatism:0 "Kingdom of Bhutan"
+ BHU_conservatism_DEF:0 "the Kingdom of Bhutan"
+ BHU_ADJ:0 "Bhutanese"
+ 
+ BUS_conservatism:0 "Kingdom of Busra"
+ BUS_conservatism_DEF:0 "the Kingdom of Busra"
+ BUS_ADJ:0 "Busran"
+ 
+ CAM_conservatism:0 "Kindgom of Cambodia"
+ CAM_conservatism_DEF:0 "the Kingdom of Cambodia"
+ CAM_ADJ:0 "Cambodian"
+ 
+ CEY_conservatism:0 "Kingdom of Ceylon"
+ CEY_conservatism_DEF:0 "the Kingdom of Ceylon"
+ CEY_ADJ:0 "Ceylon"
+ 
+ CHI_liberalism:0 "Republic of China"
+ CHI_liberalism_DEF:0 "the Republic of China"
+ CHI_ADJ:0 "Chinese"
+ 
+ HEJ_conservatism:0 "Kingdom of Hejaz"
+ HEJ_conservatism_DEF:0 "the Kingdom of Hejaz"
+ HEJ_ADJ:0 "Hejazi"
+ 
+ IRQ_reactionism:0 "Kingdom of Iraq"
+ IRQ_reactionism_DEF:0 "the Kingdom of Iraw"
+ IRQ_ADJ:0 "Iraqi"
+ 
+ JAP_fascism:0 "Empire of Japan"
+ JAP_fascism_DEF:0 "the Empire of Japan"
+ JAP_ADJ:0 "Japanese"
+ 
+ KAZ_reactionism:0 "State of Kazakhstan"
+ KAZ_reactionism_DEF:0 "the State of Kazakhstan"
+ KAZ_ADJ:0 "Kazakh"
+ 
+ KUR_conservatism:0 "Kingdom of Kurdistan"
+ KUR_conservatism_DEF:0 "the Kingdom of Kurdistan"
+ KUR_ADJ:0 "Kurdish"
+ 
+ KYR_conservatism:0 "Republic of Kyrgyzstan"
+ KYR_conservatism_DEF:0 "the Republic of Kyrgyzstan"
+ KYR_ADJ:0 "Kyrgyz"
+ 
+ LAO_conservatism:0 "Kindgom of Laos"
+ LAO_conservatism_DEF:0 "the Kindgom of Laos"
+ LAO_ADJ:0 "Laotian"
+ 
+ LEB_conservatism:0 "Kingdom of Lebanon"
+ LEB_conservatism_DEF:0 "the Kingdom of Lebanon"
+ LEB_ADJ:0 "Lebanese"
+ 
+ MAN_fascism:0 "Republic of Manchuria"
+ MAN_fascism_DEF:0 "the Republic of Manchuria"
+ MAN_ADJ:0 "Manchurian"
+ 
+ MON_fascism:0 "Feudal Horde of Mongolia"
+ MON_fascism_DEF:0 "the Feudal Horde of Mongolia"
+ MON_ADJ:0 "Mongolian"
+ 
+ MYA_reactionism:0 "Kingdom of Myanmar"
+ MYA_reactionism_DEF:0 "the Kingdom of Myanmar"
+ MYA_ADJ:0 "Myanese"
+ 
+ NEP_conservatism:0 "Kingdom of Nepal"
+ NEP_conservatism_DEF:0 "the Kingdom of Nepal"
+ NEP_ADJ:0 "Nepalese"
+ 
+ PAL_conservatism:0 "Kingdom of Palestine"
+ PAL_conservatism_DEF:0 "the Kingdom of Palestine"
+ PAL_ADJ:0 "Palestinian"
+ 
+ PER_reactionism:0 "Kindgom of Persia"
+ PER_reactionism_DEF:0 "the Kingodm of Persia"
+ PER_ADJ:0 "Persian"
+ 
+ PRI_conservatism:0 "Princely Federation"
+ PRI_conservatism_DEF:0 "the Princely Federation"
+ PRI_ADJ:0 "Princely"
+ 
+ PUN_conservatism:0 "State of Punjab"
+ PUN_conservatism_DEF:0 "the State of Punjab"
+ PUN_ADJ:0 "Punjabi"
+ 
+ RAJ_liberalism:0 "Republic of Northern India"
+ RAJ_liberalism_DEF:0 "the Republic of Northern India"
+ RAJ_ADJ:0 "Indian"
+ 
+ SAU_reactionism:0 "Kingdom of Saudi Arabia"
+ SAU_reactionism_DEF:0 "the Kingdom of Saudi Arabia"
+ SAU_ADJ:0 "Saudi"
+ 
+ SIA_reactionism:0 "Kingdom of Siam"
+ SIA_reactionism_DEF:0 "the Kingdom of Siam"
+ SIA_ADJ:0 "Siamese"
+ 
+ SIK_conservatism:0 "Republic of Turkestan"
+ SIK_conservatism_DEF:0 "the Republic of Turkestan"
+ SIK_ADJ:0 "Turkestani"
+ 
+ SIN_conservatism:0 "State of Sindh"
+ SIN_conservatism_DEF:0 "the State of Sindh"
+ SIN_ADJ:0 "Sindhi"
+ 
+ SYR_conservatism:0 "Kingdom of Syria"
+ SYR_conservatism_DEF:0 "the Kingdom of Syria"
+ SYR_ADJ:0 "Syrian"
+ 
+ TAJ_conservatism:0 "Republic of Tajikistan"
+ TAJ_conservatism_DEF:0 "the Republic of Tajikistan"
+ TAJ_ADJ:0 "Tajik"
+ 
+ TIB_conservatism:0 "Kingdom of Tibet"
+ TIB_conservatism_DEF:0 "the Kingdom of Tibet"
+ TIB_ADJ:0 "Tibetan"
+ 
+ TUK_conservatism:0 "Republic of Turkmenistan"
+ TUK_conservatism_DEF:0 "the Republic of Turkmenistan"
+ TUK_ADJ:0 "Turkmen"
+ 
+ TUR_conservatism:0 "Republic of Turkey"
+ TUR_conservatism_DEF:0 "the Republic of Turkey"
+ TUR_ADJ:0 "Turkish"
+ 
+ UZB_conservatism:0 "Republic of Uzbekistan"
+ UZB_conservatism_DEF:0 "the Republic of Uzbekistan"
+ UZB_ADJ:0 "Uzbek"
+ 
+ VIN_conservatism:0 "Kingdom of Vietnam"
+ VIN_conservatism_DEF:0 "the Kingdom of Vietnam"
+ VIN_ADJ:0 "Vietnamese"
+ 
+ YEM_conservatism:0 "Kingdom of Yemen"
+ YEM_conservatism_DEF:0 "the Kingdom of Yemen"
+ YEM_ADJ:0 "Yemeni"
+
+ # Europe
+
+ ALB_conservatism:0 "Kingdom of Albania"
+ ALB_conservatism_DEF:0 "the Kingdom of Albania"
+ ALB_ADJ:0 "Albanian"
+
+ ARM_conservatism:0 "Kingdom of Armenia"
+ ARM_conservatism_DEF:0 "the Kingdom of Armenia"
+ ARM_ADJ:0 "Armenian"
+ 
+ AUS_liberalism:0 "Federal Republic of Austria"
+ AUS_liberalism_DEF:0 "the Federal Republic of Austria"
+ AUS_ADJ:0 "Austrian"
+
+ BEL_conservatism:0 "Kingdom of Belgium"
+ BEL_conservatism_DEF:0 "the Kingdom of Belgium"
+ BEL_ADJ:0 "Belgian"
+ 
+ BLR_conservatism:0 "Republic of Belarus"
+ BLR_conservatism_DEF:0 "the Republic of Belarus"
+ BLR_ADJ:0 "Belarusian"
+ 
+ BUL_reactionism:0 "Kingdom of Bulgaria"
+ BUL_reactionism_DEF:0 "the Kingdom of Bulgaria"
+ BUL_ADJ:0 "Bulgarian"
+ 
+ CRI_reactionism:0 "Tatar Republic of Crimea"
+ CRI_reactionism_DEF:0 "the Tatar Republic of Crimea"
+ CRI_ADJ:0 "Crimean"
+ 
+ CRO_conservatism:0 "Kingdom of Croatia-Slovenia"
+ CRO_conservatism_DEF:0 "the Kingdom of Croatia-Slovenia"
+ CRO_ADJ:0 "Croatian"
+ 
+ CZE_conservatism:0 "Czech Republic"
+ CZE_conservatism_DEF:0 "the Czech Republic"
+ CZE_ADJ:0 "Czech"
+ 
+ DEN_socialism:0 "Kingdom of Denmark"
+ DEN_socialism_DEF:0 "the Kingdom of Denmark"
+ DEN_ADJ:0 "Danish"
+ 
+ ENG_fascism:0 "United Kingdom"
+ ENG_fascism_DEF:0 "the United Kingdom"
+ ENG_ADJ:0 "British"
+ 
+ FIN_conservatism:0 "Republic of Finland"
+ FIN_conservatism_DEF:0 "the Republic of Finland"
+ FIN_ADJ:0 "Finnish"
+ 
+ FRA_communism:0 "Commune of France"
+ FRA_communism_DEF:0 "the Commune of France"
+ FRA_ADJ:0 "Communard"
+ 
+ GER_conservatism:0 "German Empire"
+ GER_conservatism_DEF:0 "the German Empire"
+ GER_ADJ:0 "German"
+ 
+ GRE_conservatism:0 "Kingdom of Greece"
+ GRE_conservatism_DEF:0 "the Kingdom of Greece"
+ GRE_ADJ:0 "Greek"
+ 
+ HET_conservatism:0 "Republic of Latvia-Estonia"
+ HET_conservatism_DEF:0 "the Republic of Latvia-Estonia"
+ HET_ADJ:0 "Latvian-Estonian"
+ 
+ HOL_conservatism:0 "Kingdom of the Netherlands"
+ HOL_conservatism_DEF:0 "the Kingdom of the Netherlands:
+ HOL_ADJ:0 "Dutch"
+ 
+ HRS_reactionism:0 "Holy Russian State"
+ HRS_reactionism_DEF:0 "the Holy Russian State"
+ HRS_ADJ:0 "Holy Russian"
+ 
+ HUN_fascism:0 "National Republic of Hungary"
+ HUN_fascism_DEF:0 "the National Republic of Hungary"
+ HUN_ADJ:0 "Hungarian"
+ 
+ ICE_conservatism:0 "Kingdom of Iceland"
+ ICE_conservatism_DEF:0 "the Kingdom of Iceland"
+ ICE_ADJ:0 "Icelandic"
+ 
+ ITA_conservatism:0 "Kingdom of Italy"
+ ITA_conservatism_DEF:0 "the Kingdom of Italy"
+ ITA_ADJ:0 "Italian"
+
+ NOR_socialism:0 "Kingdom of Norway"
+ NOR_socialism_DEF:0 "the Kingdom of Norway"
+ NOR_ADJ:0 "Norwegian"
+ 
+ POL_fascism:0 "Polish-Lithuanian Commonwealth"
+ POL_fascism_DEF:0 "the Polish-Lithuanian Commonwealth"
+ POL_ADJ:0 "Polish-Lithuanian"
+ 
+ POR_reactionism:0 "Republic of Portugal"
+ POR_reactionism_DEF:0 "the Republic of Portugal"
+ POR_ADJ:0 "Portuguese"
+ 
+ ROM_conservatism:0 "Kingdom of Romania"
+ ROM_conservatism_DEF:0 "the Kingdom of Romania"
+ ROM_ADJ:0 "Romanian"
+ 
+ RUS_reactionism:0 "Imperial Russian State"
+ RUS_reactionism_DEF:0 "the Imperial Russia State"
+ RUS_ADJ:0 "Imperial Russian"
+ 
+ SER_conservatism:0 "Kingdom of Serbia"
+ SER_conservatism_DEF:0 "the Kingdom of Serbia"
+ SER_ADJ:0 "Serbian"
+ 
+ SLO_conservatism:0 "State of Slovakia"
+ SLO_conservatism_DEF:0 "the State of Slovakia"
+ SLO_ADJ:0 "Slovak"
+ 
+ SLV_conservatism:0 "Kingdom of Slovenia"
+ SLV_conservatism_DEF:0 "the Kingdom of Slovenia"
+ SLV_ADJ:0 "Slovenian"
+ 
+ SOV_communism:0 "Russian SFSR"
+ SOV_communism_DEF:0 "the Russian SFSR"
+ SOV_ADJ:0 "Soviet"
+ 
+ SPR_liberalism:0 "Republic of Spain"
+ SPR_liberalism_DEF:0 "the Republic of Spain"
+ SPR_ADJ:0 "Spanish"
+ 
+ SWE_socialism:0 "Kingdom of Sweden-Norway"
+ SWE_socialism_DEF:0 "the Kingdom of Sweden-Norway"
+ SWE_ADJ:0 "Swedish"
+ 
+ SWI_liberalism:0 "Swiss Confederation"
+ SWI_liberalism_DEF:0 "the Swiss Confederation"
+ SWI_ADJ:0 "Swiss"
+ 
+ UKR_liberalism:0 "Republic of Ukraine"
+ UKR_liberalism_DEF:0 "the Republic of Ukraine"
+ UKR_ADJ:0 "Ukrainian"
+ 
+ 
+ # Oceania
+ 
+ AST_conservatism:0 "Republic of Australia"
+ AST_conservatism_DEF:0 "the Republic of Australia"
+ AST_ADJ:0 "Australian"
+ 
+ INS_conservatism:0 "Republic of Indonesia"
+ INS_conservatism_DEF:0 "the Republic of Indonesia"
+ INS_ADJ:0 "Indonesian"
+ 
+ MAL_conservatism:0 "Republic of Malaysia"
+ MAL_conservatism_DEF:0 "the Republic of Malaysia"
+ MAL_ADJ:0 "Malaysian"
+ 
+ NZL_conservatism:0 "Republic of New Zealand"
+ NZL_conservatism_DEF:0 "the Republic of New Zealand"
+ NZL_ADJ:0 "New Zealander"
+ 
+ PHI_conservatism:0 "Republic of the Philippines"
+ PHI_conservatism:0 "the Republic of the Philippines"
+ PHI_ADJ:0 "Filipino"
+
+ FACTION_NAME_DEMOCRATIC_1:0 "The $CONTINENT_ADJ$ Association"
+ FACTION_NAME_DEMOCRATIC_2:0 "The $CONTINENT_ADJ$ Entente"
+ FACTION_NAME_DEMOCRATIC_3:0 "The $LEADER_COUNTRY_ADJ$ Concordat"
+ FACTION_NAME_DEMOCRATIC_4:0 "The $LEADER_COUNTRY_ADJ$ Union"
+ FACTION_NAME_DEMOCRATIC_5:0 "$CONTINENT_ADJ$ Coalition"
+ FACTION_NAME_DEMOCRATIC_6:0 "$CONTINENT_ADJ$ Federation"
+ FACTION_NAME_COMMUNIST_1:0 "The $LEADER_COUNTRY_ADJ$ Compact"
+ FACTION_NAME_COMMUNIST_2:0 "$CONTINENT_ADJ$ Syndicate"
+ FACTION_NAME_COMMUNIST_3:0 "The $CONTINENT_ADJ$ Combine"
+ FACTION_NAME_COMMUNIST_4:0 "The $CONTINENT_ADJ$ Pact"
+ FACTION_NAME_COMMUNIST_5:0 "The $LEADER_COUNTRY_ADJ$ Bloc"
+ FACTION_NAME_FASCIST_1:0 "Brotherhood of $CONTINENT$"
+ FACTION_NAME_FASCIST_2:0 "$CONTINENT_ADJ$ Group"
+ FACTION_NAME_FASCIST_3:0 "The $CONTINENT_ADJ$ League"
+ FACTION_NAME_FASCIST_4:0 "The $CONTINENT$ Confederacy"
+ FACTION_NAME_FASCIST_5:0 "$CONTINENT_ADJ$ Confederation"
+ FACTION_NAME_NONALIGNED_1:0 "$CONTINENT_ADJ$ Defense League"
+ FACTION_NAME_NONALIGNED_2:0 "The $LEADER_COUNTRY$ Congress"
+ FACTION_NAME_NONALIGNED_3:0 "The $CONTINENT$ Alliance"
+ FACTION_NAME_NONALIGNED_4:0 "Confederate $CONTINENT_ADJ$ Nations"
+ FACTION_NAME_NONALIGNED_5:0 "The $LEADER_COUNTRY$ Coalition"
+ 
