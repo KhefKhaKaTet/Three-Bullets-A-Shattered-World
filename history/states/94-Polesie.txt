@@ -1,0 +1,29 @@
+state={
+	id=94
+	name="STATE_94"
+
+	history={
+		owner = BLR
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = POL
+		add_core_of = BLR
+	}
+
+	provinces={
+		535 560 3309 3496 3556 6280 6306 6415 6546 6579 9520 11285 11503 
+	}
+	manpower=582000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
+
+# Original population: 1,232,200
+# With a city center and around 1/4 of the provinces going to a new state, give them: 750,000
+
+#  1232000
+# - 650000
+# --------
+#   582000 

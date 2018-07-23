@@ -1,0 +1,38 @@
+state={
+	id=96
+	name="STATE_96"
+	manpower = 511000
+	
+	state_category = rural
+	
+	history={
+		owner = BLR
+		victory_points = {
+			3320 1
+		}
+		buildings = {
+			infrastructure = 5
+			air_base = 1
+		}
+		add_core_of = POL
+		add_core_of = BLR
+	}
+
+	provinces={
+		233 277 358 406 6340 9341 11391 
+	}
+}
+
+# Original population: 1,226,000
+# Three provinces taken (3320, 9295, 11342)
+# A little less than 1/3rd of overall population (round to 1,210,000); ~450,000
+# Include a victory point, so add some: 265,000
+#   450000
+# + 265000
+# --------
+#   715000
+
+#  1226000
+# - 715000
+# --------
+#   511000

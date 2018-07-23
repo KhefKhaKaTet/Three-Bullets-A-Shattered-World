@@ -1,0 +1,25 @@
+state={
+	id=95
+	name="STATE_95"
+	manpower = 1057200
+	
+	state_category = rural
+	history={
+		owner = BLR
+		buildings = {
+			infrastructure = 5
+			air_base = 3
+		}
+		add_core_of = POL
+		add_core_of = BLR
+	}
+
+	provinces={
+		3366 6359 6413 9236 9304 9359 11341 
+	}
+}
+
+# Original populaion: 1,157,200
+# One province taken (9274)
+# No victory points, so around evenly populated(?), take around 1/10th: 100,000
+# 1,057,200
